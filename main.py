@@ -14,7 +14,7 @@ Bootstrap5(app)
 
 
 class CafeForm(FlaskForm):
-    coffe_emojis =[
+    coffee_emojis =[
         ('None Selected', 'Select rating 🔽'),
         ('❌', '❌'),
         ('☕️', '☕️'),
